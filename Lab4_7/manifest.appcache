@@ -1,0 +1,27 @@
+CACHE MANIFEST
+    
+CACHE:
+pages/fans-appeal.html
+pages/for-fans.html
+pages/concert-venue.html
+pages/news.html
+error.html
+index.html
+script.js
+
+styles/style.css
+images/album1.jpg
+images/album2.jpg
+images/album3.jpg
+images/album4.jpg
+images/album5.jpg
+images/album6.jpg
+images/NIN_about.jpg
+images/NIN_cover.jpg
+images/NIN_map.png
+images/NIN_news-card.png
+
+NETWORK:
+    *
+FALLBACK:
+/ error.html  
